@@ -7,9 +7,9 @@ publish {
     userOrg = 'muthu297'
     groupId = 'com.asmrk.msglovesdk'
     artifactId = 'msglovesdk'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.3'
     desc = 'Hello World'
-    website = 'https://github.com/novoda/bintray-release'
+    website = 'https://github.com/Muthu297/MsgLove-Jcenter-sample'
 }
 
 android {
