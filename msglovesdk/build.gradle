@@ -7,7 +7,7 @@ publish {
     userOrg = 'muthu297'
     groupId = 'com.asmrk.msglovesdk'
     artifactId = 'msglovesdk'
-    publishVersion = '0.0.3'
+    publishVersion = '0.0.4'
     desc = 'Hello World'
     website = 'https://github.com/Muthu297/MsgLove-Jcenter-sample'
 }
